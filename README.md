@@ -1,6 +1,6 @@
 ### ✨ Hi there, I'm Cinthia! ✨
 
-- Estudante de Ciência da Computação pela universidade nove de julho - UNINOVE
+- Estudante de Ciência da Computação pela Universidade Nove de Julho - UNINOVE
 
 ## GitHub Stats ⚡
 <div>
