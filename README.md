@@ -1,6 +1,7 @@
 ### ✨ Hi there, I'm Cinthia! ✨
 
 - Estudante de Ciência da Computação pela Universidade Nove de Julho - UNINOVE
+- Sempre em busca de conhecimento, amo ler livros de ficção e gosto bastante de jogos
 
 ## GitHub Stats ⚡
 <div>
