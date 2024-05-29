@@ -12,6 +12,7 @@
 &nbsp;
 &nbsp;
  
-  <a href="https://www.linkedin.com/in/cinthiabsouza1997/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230000ff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:cinthiasouza@uni9.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
- 
+
+## Reach me 📫
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiabsouza1997/)
+[![Gmail](https://img.shields.io/badge/-cinthiasouza@uni9.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cinthiasouza@uni9.edu.br)](mailto:cinthiasouza@uni9.edu.br)
