@@ -1,11 +1,22 @@
-### Hi Devs, I'm Cinthia! ✨
+<h1 align="center">Hi 👋, I'm Cinthia</h1>
+<h3 align="center">Estudante de Ciência da Computação</h3>
 
- <div  align="center" style="margin-bottom:100px">
-    <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=robert-sampaio&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=robert-sampaio&show_icons=true&theme=radical&layout=compact" />
- </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cinthiabezerrasouza&label=Profile%20views&color=0e75b6&style=flat" alt="cinthiabezerrasouza" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cinthiabezerrasouza" alt="cinthiabezerrasouza" /></a> </p>
 
-## Reach me 📫
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiabsouza1997/)
-[![Gmail](https://img.shields.io/badge/-cinthiasouza@uni9.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cinthiasouza@uni9.edu.br)](mailto:cinthiasouza@uni9.edu.br)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/cinthiabsouza1997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cinthiabsouza1997/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinthiabezerrasouza&show_icons=true&locale=en&layout=compact" alt="cinthiabezerrasouza" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthiabezerrasouza&show_icons=true&locale=en" alt="cinthiabezerrasouza" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinthiabezerrasouza&" alt="cinthiabezerrasouza" /></p>
