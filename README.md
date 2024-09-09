@@ -1,6 +1,6 @@
 ### Hi Devs, I'm Cinthia! ✨ 
-<div  align="center" style="margin-bottom:100px"> <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=robert-sampaio&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a> <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=robert-sampaio&show_icons=true&theme=radical&layout=compact" /> </div> 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CinthiaBezerraSouza&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=fff)
+ ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CinthiaBezerraSouza&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Reach me 📫 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiabsouza1997/) 
