@@ -10,14 +10,14 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=CinthiaBezerraSouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CinthiaBezerraSouza&layout=compact&theme=radical&custom_title=Languages"/></td>
-  </tr>
-</table>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NullBeta001&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NullBeta001&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NullBeta001&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NullBeta001&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=NullBeta001&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+  
+
+    
 
 ## Reach me 📫 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiabsouza1997/) 
