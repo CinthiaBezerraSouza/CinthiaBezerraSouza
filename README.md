@@ -1,11 +1,5 @@
 ### Hi Devs, I'm Cinthia! ✨ 
 
-#### Linguagens de Programação:
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
-
-#### Banco de Dados:
-![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=white) 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CinthiaBezerraSouza&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CinthiaBezerraSouza&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CinthiaBezerraSouza&theme=nord_dark) |
 | :-: | :-: | :-: |
@@ -13,7 +7,10 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CinthiaBezerraSouza&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=CinthiaBezerraSouza&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
   
-
+<img alt="Azure" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Azure.svg">
+<img alt="Git" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/GIT.svg">
+<img alt="Python" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
+<img alt="PowerBi" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Power BI.svg">
     
 
 ## Reach me 📫 
