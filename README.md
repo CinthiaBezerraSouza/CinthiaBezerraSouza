@@ -17,4 +17,4 @@
 
 ## Reach me 📫 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cinthiabsouza1997/) 
-[![Gmail](https://img.shields.io/badge/-cinthiasouza@uni9.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cinthiasouza@uni9.edu.br)](mailto:cinthiasouza@uni9.edu.br)
+[![Gmail](https://img.shields.io/badge/-cinthiasouza@uni9.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:cinthiasouza@uni9.edu.br)](mailto:Gmail)
